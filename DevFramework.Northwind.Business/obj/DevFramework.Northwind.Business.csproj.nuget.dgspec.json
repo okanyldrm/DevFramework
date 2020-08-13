@@ -4,14 +4,14 @@
     "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj": {
+    "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj",
-        "projectName": "DevFramework.Northwind.Business",
-        "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj",
+        "projectUniqueName": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj",
+        "projectName": "DevFramework.Core",
+        "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj",
         "packagesPath": "C:\\Users\\OkanY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\obj\\",
+        "outputPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OkanY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,208 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\DevFramework.Norhwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\DevFramework.Norhwind.DataAccess.csproj",
+        "projectName": "DevFramework.Norhwind.DataAccess",
+        "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\DevFramework.Norhwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\OkanY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OkanY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj": {
+                "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj"
+              },
+              "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj",
+        "projectName": "DevFramework.Northwind.Business",
+        "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj",
+        "packagesPath": "C:\\Users\\OkanY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OkanY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\DevFramework.Norhwind.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Norhwind.DataAccess\\DevFramework.Norhwind.DataAccess.csproj"
+              },
+              "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj",
+        "projectName": "DevFramework.Northwind.Entities",
+        "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\DevFramework.Northwind.Entities.csproj",
+        "packagesPath": "C:\\Users\\OkanY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Northwind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OkanY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj": {
+                "projectPath": "C:\\Users\\OkanY\\source\\repos\\DevFramework\\DevFramework.Core\\DevFramework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

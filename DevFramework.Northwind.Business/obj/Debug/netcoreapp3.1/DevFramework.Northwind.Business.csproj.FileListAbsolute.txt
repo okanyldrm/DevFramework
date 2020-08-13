@@ -1,0 +1,16 @@
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Business.deps.json
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Business.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.AssemblyInfo.cs
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Business.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.csproj.CopyComplete
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Business.pdb

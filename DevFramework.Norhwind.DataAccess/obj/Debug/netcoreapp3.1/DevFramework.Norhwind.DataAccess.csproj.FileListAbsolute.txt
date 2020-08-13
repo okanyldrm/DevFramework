@@ -1,0 +1,14 @@
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.AssemblyInfo.cs
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.deps.json
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.csproj.CopyComplete
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Norhwind.DataAccess\obj\Debug\netcoreapp3.1\DevFramework.Norhwind.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.AssemblyInfo.cs
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.deps.json
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csproj.CopyComplete
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\OkanY\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
